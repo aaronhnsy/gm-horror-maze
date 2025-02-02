@@ -1,11 +1,13 @@
 {
-  "resourceType": "GMScript",
-  "resourceVersion": "1.0",
-  "name": "light_remove_from_world",
-  "isCompatibility": false,
-  "isDnD": false,
-  "parent": {
-    "name": "Lights",
-    "path": "folders/Lighting/Scripts/Lights.yy",
+  "$GMScript":"v1",
+  "%Name":"light_remove_from_world",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"light_remove_from_world",
+  "parent":{
+    "name":"Lights",
+    "path":"folders/Lighting/Scripts/Lights.yy",
   },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

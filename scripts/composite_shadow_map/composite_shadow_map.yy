@@ -1,11 +1,13 @@
 {
-  "resourceType": "GMScript",
-  "resourceVersion": "1.0",
-  "name": "composite_shadow_map",
-  "isCompatibility": false,
-  "isDnD": false,
-  "parent": {
-    "name": "Scripts",
-    "path": "folders/Lighting/Scripts.yy",
+  "$GMScript":"v1",
+  "%Name":"composite_shadow_map",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"composite_shadow_map",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Lighting/Scripts.yy",
   },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

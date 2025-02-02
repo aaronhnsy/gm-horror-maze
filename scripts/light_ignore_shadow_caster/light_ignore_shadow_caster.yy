@@ -1,11 +1,13 @@
 {
-  "resourceType": "GMScript",
-  "resourceVersion": "1.0",
-  "name": "light_ignore_shadow_caster",
-  "isCompatibility": false,
-  "isDnD": false,
-  "parent": {
-    "name": "Misc",
-    "path": "folders/Lighting/Scripts/Lights/Misc.yy",
+  "$GMScript":"v1",
+  "%Name":"light_ignore_shadow_caster",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"light_ignore_shadow_caster",
+  "parent":{
+    "name":"Misc",
+    "path":"folders/Lighting/Scripts/Lights/Misc.yy",
   },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }
